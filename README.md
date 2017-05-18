@@ -1,9 +1,9 @@
 # USB TC-08 Thermocouple Data Logger MATLAB Examples
 
-picosdk-usbtc08-matlab-examples is a set of MATLAB examples demonstrating how to call shared library functions to acquire data from the 
+picosdk-usbtc08-matlab-examples is a MATLAB example demonstrating how to call shared library functions to acquire data from the 
 USB TC-08 Thermcouple Data Logger. 
 
-The examples are provided as MATLAB scripts.
+The example is provided as a MATLAB script.
 
 ## Getting started
 
