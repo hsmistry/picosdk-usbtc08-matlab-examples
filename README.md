@@ -1,4 +1,4 @@
-# USB TC-08 Thermocouple Data Logger Examples
+# USB TC-08 Thermocouple Data Logger MATLAB Examples
 
 picosdk-usbtc08-matlab-examples is a set of MATLAB examples demonstrating how to call shared library functions to acquire data from the 
 USB TC-08 Thermcouple Data Logger. 
@@ -25,7 +25,7 @@ Drivers are available for the following platforms. Refer to the subsections belo
 
 #### Linux
 
-* Follow the instructions from our [Linux Software & Drivers for Oscilloscopes and Data Loggers](https://www.picotech.com/downloads/linux) to install the required `libusbtc08` driver package.
+* Follow the instructions from our [Linux Software & Drivers for Oscilloscopes and Data Loggers page](https://www.picotech.com/downloads/linux) to install the required `libusbtc08` driver package.
 
 ### Programmer's Guides
 
