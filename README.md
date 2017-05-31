@@ -15,6 +15,13 @@ The example is provided as a MATLAB script.
 
 * MATLAB 2015b is recommended for 32-bit versions of MATLAB on Microsoft Windows operating systems.
 
+### Installing the examples
+
+We recommend using the [Add-Ons Explorer](https://uk.mathworks.com/help/matlab/matlab_env/get-add-ons.html) in MATLAB in order to install these files and obtain updates.
+
+If your version of MATLAB does not have the Add-Ons Explorer, download the zip file from the [MATLAB Central File Exchange page](https://uk.mathworks.com/matlabcentral/fileexchange/63006-usb-tc-08-thermocouple-data-logger-matlab-example)
+ and add the root and sub-folders to the MATLAB path.
+
 ### Installing drivers
 
 Drivers are available for the following platforms. Refer to the subsections below for further information.
@@ -37,9 +44,15 @@ Please visit our [Support page](https://www.picotech.com/tech-support) to contac
 
 Issues can be reported via the [Issues tab](https://github.com/picotech/picosdk-usbtc08-matlab-examples/issues).
 
+Please leave a comment and rating for this submission on our [MATLAB Central File Exchange page](https://uk.mathworks.com/matlabcentral/fileexchange/63006-usb-tc-08-thermocouple-data-logger-matlab-example).
+
+## Contributing
+
+Contributions are welcome. Please refer to our [guidelines for contributing](.github/CONTRIBUTING.md) for further information.
+
 ## Copyright and licensing
 
-picosdk-usbtc08-matlab-examples is Copyright (C) 2014 - 2017 Pico Technology Ltd. All rights reserved. See [LICENSE.md](LICENSE.md) for license terms. 
+See [LICENSE.md](LICENSE.md) for license terms. 
 
 *PicoScope* is a registered trademark of Pico Technology Ltd. 
 
@@ -49,7 +62,7 @@ picosdk-usbtc08-matlab-examples is Copyright (C) 2014 - 2017 Pico Technology Ltd
 
 *Linux* is the registered trademark of Linus Torvalds in the U.S. and other countries.
 
-## Contributing
+Copyright © 2014-2017 Pico Technology Ltd. All rights reserved. 
 
-Contributions are welcome. Please refer to our [guidelines for contributing](.github/CONTRIBUTING.md) for further information.
+
 
