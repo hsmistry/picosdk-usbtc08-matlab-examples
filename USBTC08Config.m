@@ -25,8 +25,7 @@
 %
 % This file can be edited to suit application requirements.
 %
-% *Copyright:* © 2016 - 2017 Pico Technology Ltd. All rights reserved.
-
+% *Copyright:* © 2016-2017 Pico Technology Ltd. See LICENSE file for terms.
 
 %% Set Path to Shared Libraries
 % Set paths to shared library files according to the operating system and
