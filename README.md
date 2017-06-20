@@ -1,9 +1,6 @@
 # USB TC-08 Thermocouple Data Logger MATLAB Examples
 
-picosdk-usbtc08-matlab-examples is a MATLAB example demonstrating how to call shared library functions to acquire data from the 
-USB TC-08 Thermcouple Data Logger. 
-
-The example is provided as a MATLAB script.
+*picosdk-usbtc08-matlab-examples* provides a MATLAB example demonstrating how to call shared library functions to acquire data from the USB TC-08 Thermcouple Data Logger.
 
 ## Getting started
 
@@ -62,7 +59,7 @@ See [LICENSE.md](LICENSE.md) for license terms.
 
 *Linux* is the registered trademark of Linus Torvalds in the U.S. and other countries.
 
-Copyright Â© 2014-2017 Pico Technology Ltd. All rights reserved. 
+Copyright © 2014-2017 Pico Technology Ltd. All rights reserved. 
 
 
 
