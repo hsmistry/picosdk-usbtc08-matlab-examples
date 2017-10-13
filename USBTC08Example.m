@@ -1,4 +1,4 @@
-%% USB TC-08 MATLAB EXAMPLE
+%% USB TC-08 Thermocouple Data Logger Example
 % This script demonstrates how to:
 %
 % * Open a connection to USB TC-08 Thermocouple Data Logger
